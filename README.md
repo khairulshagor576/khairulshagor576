@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammad Khairul Islam
 - 👀 I’m interested in sort out coding problems
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me over the mail is khairulsagor567@gmail.com
 
